@@ -17,7 +17,7 @@ In this analysis, we basically aim at looking at:
 * When they pay off
 
 The analysis is divided into 3 parts according to the datasets given. The first part of the analysis is covered in Product_Analysis.ipynb, followed by
-Sales_Analysis.ipynb, and then Marketing_Analysis.ipynb. Afterwards, I made my conclusions and gave some recommendation.
+Sales_Analysis.ipynb, and then Marketing_Analysis.ipynb in that order. Afterwards, I made my conclusions and gave some recommendation.
 
 The libraries used in this project are pandas, plotly, seaborn, matplotlib, numpy, and scipy.
 
